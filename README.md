@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harkr005 !!!
+- 👋 Hi, I’m Harshit !
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning SQL and Python Pandas.
 - 💞️ I’m looking to collaborate on ...
