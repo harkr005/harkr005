@@ -1,6 +1,11 @@
 - 👋 Hi, I’m Harshit !
 - 👀 I’m interested in coding.
-- 🌱 I have basic to intermediate skills in Python, C/C++, Java, SQL, Pandas and Matplotlib.
+- 🌱 I have basic to intermediate knowledge in...
+- - Python
+  - C/C++
+  - Java
+  - SQL
+  - Pandas and Matplotlib.
 - 💞️ I’m looking to collaborate on : Can handle relational databases and perform data analysis.
 - 📫 How to reach me ...
 - - LINKEDIN --> [linkedin.com/in/harshit-kumar1705](https://www.linkedin.com/in/harshit-kumar1705/)
