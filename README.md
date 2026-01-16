@@ -30,10 +30,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harkr005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harkr005&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harkr005&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=harkr005&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+    height="165"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=harkr005&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="GitHub Streak"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harkr005&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="Top Languages"
+    height="165"
+  />
 </p>
+
 
 ---
 
