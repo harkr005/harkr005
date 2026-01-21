@@ -31,7 +31,7 @@
 
 <p align="center">
   <img
-    src="https://[YOUR-VERCEL-URL](https://vercel.com/harshits-projects-b29cbffe/github-readme-stats/A9tCq21pgarSRkTUFufwKPYfC1dU)/api?username=harkr005&show_icons=true&theme=radical&hide_border=true"
+    src="https://https://vercel.com/harshits-projects-b29cbffe/github-readme-stats/A9tCq21pgarSRkTUFufwKPYfC1dU/api?username=harkr005&show_icons=true&theme=radical&hide_border=true"
     alt="GitHub Stats"
     height="165"
   />
