@@ -31,23 +31,19 @@
 
 <p align="center">
   <img
-    src="https://vercel.com/harshits-projects-b29cbffe/github-readme-stats/A9tCq21pgarSRkTUFufwKPYfC1dU/api?username=harkr005&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats-nine-pink-64.vercel.app/api?username=harkr005&show_icons=true&theme=radical&hide_border=true"
     height="165"
   />
-
   <img
-    src="https://streak-stats.demolab.com?user=harkr005&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=harkr005&theme=radical&hide_border=true"
     height="165"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harkr005&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
+    src="https://github-readme-stats-nine-pink-64.vercel.app/api/top-langs/?username=harkr005&layout=compact&theme=radical&hide_border=true"
     height="165"
   />
 </p>
+
 
 
 ---
