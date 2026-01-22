@@ -35,7 +35,7 @@
     height="165"
   />
   <img
-    src="https://streak-stats.demolab.com/streak-stats?user=harkr005&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com?user=harkr005&theme=radical&hide_border=true&cache_seconds=86400"
     height="165"
   />
   <img
