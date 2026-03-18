@@ -44,7 +44,9 @@
   />
 </p>
 
+## 📄 Resume
 
+[Click here to view my resume](./resume.pdf)
 
 ---
 
